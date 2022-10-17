@@ -1,5 +1,7 @@
 # Tableau-Comparative-Study-of-Countries
 
+Link: https://public.tableau.com/app/profile/purva8424/viz/ComparativeStudyofCountries_16660120073050/Dashboard1
+
 Project Brief
 
 I have created a dashboard that displays the growth percentage of various parameters such as life insurance share, market share, penetration, the ratio of reinsurance accepted, and retention ratio for the selected year from the previous year. We can get this information for different countries and countries grouped in different income groups.
